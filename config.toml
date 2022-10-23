@@ -1,4 +1,4 @@
 baseURL = 'https://QianhuaLiao.github.io/blog/'
 languageCode = "en"
 title = 'Cynwaa is here'
-theme = "CleanWhite"
+theme = "hugo-theme-cleanwhite"
