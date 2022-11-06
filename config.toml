@@ -1,5 +1,5 @@
 baseURL = 'https://QianhuaLiao.github.io/blog/'
-languageCode = "en"
+languageCode = "en-us"
 title = 'Cynwaa is here'
 theme = "hugo-theme-cleanwhite"
 
@@ -7,3 +7,11 @@ theme = "hugo-theme-cleanwhite"
   SEOTitle = "廖倩华的博客 | QianhuaLiao Blog"
   keyword = "Cynwaa, Blog, 博客, 个人网站, 成长，学习"
   slogan = "人生就是不停地折腾"
+
+# Sidebar settings
+  sidebar_about_description = "Tech Consultant, Adventurer, Lifelong Learner"
+  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+  featured_tags = true 
+  featured_condition_size = 1 
