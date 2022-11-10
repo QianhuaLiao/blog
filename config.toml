@@ -18,6 +18,8 @@ theme = "hugo-theme-cleanwhite"
   featured_condition_size = 1 
 
   [[params.addtional_menus]]
+  title = "ALL POSTS"
+  Href = "/posts/"
   title =  "ARCHIVE"
   href =  "/archive/"
   [[params.addtional_menus]]
