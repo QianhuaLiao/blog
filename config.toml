@@ -24,4 +24,4 @@ theme = "hugo-theme-cleanwhite"
   href =  "/archive/"
   [[params.addtional_menus]]
   title =  "ABOUT"
-  href =  "/about/"
+  href =  "/content/about/"
