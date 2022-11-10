@@ -16,3 +16,10 @@ theme = "hugo-theme-cleanwhite"
 
   featured_tags = true 
   featured_condition_size = 1 
+
+  [[params.addtional_menus]]
+  title =  "ARCHIVE"
+  href =  "/archive/"
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/about/"
