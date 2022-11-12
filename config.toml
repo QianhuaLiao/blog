@@ -1,6 +1,6 @@
 baseURL = "https://qianhualiao.github.io"
 languageCode = "en-us"
-title = "Cynwaa is here"
+title = "Qianhua's Note"
 theme = "hugo-theme-cleanwhite"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
