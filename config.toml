@@ -1,7 +1,19 @@
-baseURL = 'https://qianhualiao.github.io'
+baseURL = "https://qianhualiao.github.io"
 languageCode = "en-us"
-title = 'Cynwaa is here'
+title = "Cynwaa is here"
 theme = "hugo-theme-cleanwhite"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+hasCJKLanguage = true
+
+[outputs]
+home = ["HTML", "RSS", "Algolia"]
+
+
+
 
 [params]
   header_image = "img/Axamer-Lizum.jpeg"
@@ -16,20 +28,57 @@ theme = "hugo-theme-cleanwhite"
   featured_tags = true 
   featured_condition_size = 1 
 
-  social:
-    rss: true
-    email: qianhua.liao@hotmail.com
-    # Twitter
-    linkedin: 'https://www.linkedin.com/qianhualiao'
-    github: 'https://github.com/qianhualiao'
-    # wechat: 'https://zhaohuabing.com/img/wechat_qrcode.jpg'
-    # medium: 'https://medium.com/@zhaohuabing'
+  # algolia site search
+  algolia_search = true
+  algolia_appId = ""
+  algolia_indexName = ""
+  algolia_apiKey = ""
 
   [[params.addtional_menus]]
-  title = "ALL POSTS"
-  Href = "/posts/"
   title =  "ARCHIVE"
   href =  "/archive/"
   [[params.addtional_menus]]
+  title =  "NOTES"
+  href =  "/notes/"
+  [[params.addtional_menus]]
   title =  "ABOUT"
-  href =  "/content/"
+  href =  "/about/"
+
+  [params.social]
+  #rss            = true 
+  email          = "qianhua.liao@hotmail.com"
+  #facebook      = "full profile url in facebook"
+  #googleplus    = "full profile url in googleplus"
+  #twitter       = "full profile url in twitter"
+  linkedin       = "https://www.linkedin.com/in/qianhualiao"
+  #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
+  #instagram     = "full profile url in instagram"
+  github         = "https://github.com/QianhuaLiao"
+  #wechat         = "your wechat qr code image"
+  #medium        = "full profile url in medium"
+  #slack         = "full workspace url in slack"
+  #pinterest     = "full profile url in pinterest"
+  #reddit        = "full profile url in reddit"
+  #gitlab        = "full profile url in gitlab"
+  #mastodon      = "full profile url in mastodon"
+  #keybase       = "full profile url in keybase"
+  #xing          = "https://www.xing.com/profile/yourxingid"
+  #git           = "full profile url for git user"
+
+
+  [outputFormats.Algolia]
+  baseName = "algolia"
+  isPlainText = true
+  mediaType = "application/json"
+  notAlternative = true
+
+  [params.algolia]
+  vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+  params = ["categories", "tags"] 
+
+  [markup]
+    [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+    [markup.highlight]
+    style = "dracula"
