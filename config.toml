@@ -11,11 +11,19 @@ theme = "hugo-theme-cleanwhite"
 
 # Sidebar settings
   sidebar_about_description = "Tech Consultant, Adventurer, Lifelong Learner"
-  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/Qianhua-Liao.jpeg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
+
+  social:
+    rss: true
+    email: qianhua.liao@hotmail.com
+    # Twitter
+    linkedin: 'https://www.linkedin.com/qianhualiao'
+    github: 'https://github.com/qianhualiao'
+    # wechat: 'https://zhaohuabing.com/img/wechat_qrcode.jpg'
+    # medium: 'https://medium.com/@zhaohuabing'
 
   [[params.addtional_menus]]
   title = "ALL POSTS"
@@ -24,4 +32,4 @@ theme = "hugo-theme-cleanwhite"
   href =  "/archive/"
   [[params.addtional_menus]]
   title =  "ABOUT"
-  href =  "/content/about/"
+  href =  "/content/"
