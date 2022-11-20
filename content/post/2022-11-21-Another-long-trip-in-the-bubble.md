@@ -2,7 +2,7 @@
 layout:     post 
 title:      "Another long trip in the bubble"
 subtitle:   "我们的又两个月"
-date:       2022-11-21
+date:       2022-11-20
 author:     "Qianhua"
 URL:        "/2022/11/21/Another-long-trip-in-the-bubble/"
 tags:       ["随记", "Life"]
