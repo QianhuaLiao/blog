@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Qianhua's Note"
 theme = "hugo-theme-cleanwhite"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "19eko"
+# disqusShortname = "Qianhua"
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
@@ -75,6 +75,13 @@ home = ["HTML", "RSS", "Algolia"]
   [params.algolia]
   vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
   params = ["categories", "tags"] 
+
+  ## 配置 utteranc评论,教程参考 https://utteranc.es/
+  [params.utteranc]
+  enable = true
+  repo = "QianhuaLiao/hugoblogcomment"
+  issueTerm = "pathname"
+  theme = "github-light"
 
   [markup]
     [markup.tableOfContents]
