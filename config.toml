@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Qianhua's Note"
 theme = "hugo-theme-cleanwhite"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "19eko"
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
