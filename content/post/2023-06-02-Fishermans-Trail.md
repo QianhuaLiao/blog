@@ -2,13 +2,11 @@
 layout:      post
 title:       "Getting to Know Portugal, in one of the Best Way"
 subtitle:    "A 7-day hike along the Fisherman's trail"
-description: ""
 date:        2023-06-02
 author:      "Qianhua"
-image:       ""
 URL:         "/2023/06/02/Fishermans-Trail
 tags:        ["Life", "Travel"]
-categories:  ["Life" ]
+Image:        
 ---
 
 Rota Vicentina / Fisherman’s Trail / Fischerpfad，把它译成渔夫之路，好像有几分浪漫。谷歌搜索返回的正确结果寥寥无几，所以也不知道这是在哪见到过的中译名，还是自己拍脑袋的直译。它其实就是葡萄牙海岸的一个徒步系统的一条主径，从S. Torpes 到Lagos全程226.5公里，官方将其分成了13段，每段16-20公里不等。得名渔夫之路，是因为它大部分路段都是当地人前往海滩和渔场用的路。官网说，这可能是全世界最美的海岸徒步线之一。
