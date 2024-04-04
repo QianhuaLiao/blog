@@ -1,7 +1,7 @@
 ---
 layout:     post 
 title:      "🇵🇹渔夫之路 Fisherman's Trail"
-subtitle:   "七日徒步"
+subtitle:   "葡萄牙海岸线七日徒步"
 date:       2022-06-02
 author:     "Qianhua"
 URL:        "/2022/06/02/Fishermans-Trail"
