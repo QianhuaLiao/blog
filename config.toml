@@ -16,7 +16,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 
 [params]
-  header_image = "img/Axamer-Lizum.jpeg"
+  header_image = "img/Oberstdorf-Nebelhorn.jpeg"
   SEOTitle = "廖倩华的博客 | QianhuaLiao Blog"
   keyword = "Cynwaa, Blog, 博客, 个人网站, 成长，学习"
   slogan = "人生就是不停地折腾"
