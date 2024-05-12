@@ -4,7 +4,7 @@ title = "Qianhua's Notes"
 theme = "hugo-theme-cleanwhite"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = "Qianhua"
-googleAnalytics = ""
+# googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
