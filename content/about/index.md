@@ -5,12 +5,16 @@ multilingual: false
 
 ## About Me
 
-Hi, I am Qianhua, from Guangzhou CN and lives in Munich DE.
+Hi, I am Qianhua.
 
-At job, I am an supply chain consultant specialized in supply chain planning and digital transformation. 
+Born and raised in Guangzhou CN, living in Munich DE.
 
-Beside my job, I am a technology enthusiast who keeps exploring the tech world. 
+I know a bit about supply chain, and a bit about SAP. 
 
-This blog is a place to document random thoughts, share my learnings, and hopefully someday my own applications.
+I spend quite some time in the mountains, in the kitchen, and on my bike. 
 
-I write sometimes in Chinese, sometimes in English, and maybe very seldom in German.
+Dream in Cantonese, think in Mandarin, work in German and English, and learning Spanish. 
+
+With this blog, I am trying first to communicate with myself, and second with whomever that happens to relate. 
+
+Cheers. 
