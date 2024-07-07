@@ -10,8 +10,7 @@ Hi, I am Qianhua.
 Born and raised in Guangzhou CN, living in Munich DE.
 
 I know a bit about supply chain, and a bit about SAP. 
-
-I spend quite some time in the mountains, in the kitchen, and on my bike. 
+I spend quite some time in the mountains, on my bike, and in the kitchen. 
 
 Dream in Cantonese, think in Mandarin, work in German and English, and learning Spanish. 
 
